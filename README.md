@@ -17,9 +17,7 @@
 <p align="center">
 
 <a href="https://github.com/Mayurpatel07">
-<img src="https://img.shields.io/github/followers/Mayurpatel07?label=GitHub%20Followers&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=Mayurpatel07&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/mayyur21/">
